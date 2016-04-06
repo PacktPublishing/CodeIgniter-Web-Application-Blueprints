@@ -1,0 +1,8 @@
+Dear %usr_fname% %usr_lname%,
+
+Welcome to the site.  Your password is:
+
+%password%
+
+Regards,
+The Team
