@@ -1,4 +1,4 @@
-# CodeIgniter-Web-Application-Blueprints
+# [CodeIgniter-Web-Application-Blueprints] (https://www.packtpub.com/web-development/codeigniter-web-application-blueprints?utm_source=github&utm_medium=repository&utm_campaign=9781783287093)
 
 Each chapter will give you a perfectly functioning project, of course, but there is always room to expand and should you choose to extend and add functionality, you can do so easily.
 Conversely, each project can be disassembled and specific sections of code can be lifted out and used in completely different projects that are totally separate to this book.
