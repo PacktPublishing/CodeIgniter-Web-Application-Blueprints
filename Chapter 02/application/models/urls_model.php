@@ -13,6 +13,17 @@ class Urls_model extends CI_Model {
     Keep making new ones until it's unique.  
     When we make one that's unique, use it for our url 
     */
+    /*
+     * check the url from the database, if has return the url_code
+     */
+    $url = trim($data['url_address']);
+    $sql = "select url_code from urls where url_address = \"{$url}\"";
+    $res = $this->db->query($sql)->result_array();
+
+    if(count($res) > 0) {
+        return $res[0]["url_code"];
+    }
+    
     do {
       $url_code = random_string('alnum', 8); 
 
