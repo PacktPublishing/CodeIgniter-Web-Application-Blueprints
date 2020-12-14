@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/codeigniter-web-application-blueprints/9781783287093)
+-----
+*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1783287098).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # CodeIgniter-Web-Application-Blueprints
 
 Each chapter will give you a perfectly functioning project, of course, but there is always room to expand and should you choose to extend and add functionality, you can do so easily.
